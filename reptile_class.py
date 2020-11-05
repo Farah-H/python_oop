@@ -7,7 +7,7 @@ class Reptile(Animal):
     # initialising Reptile Class
     def __init__(self):
     
-        super.__init__() # `super` key word is used to inherit everything from a parent class.
+        super().__init__() # `super` key word is used to inherit everything from a parent class.
 
         self.cold_blooded = True
         self.tetrapod = True
