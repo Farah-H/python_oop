@@ -1,5 +1,4 @@
 # creating an animal class
-
 class Animal():
 
     def __init__(self): # initialising the Animal class
