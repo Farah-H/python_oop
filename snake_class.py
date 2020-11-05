@@ -13,6 +13,6 @@ class Snake(Reptile):
 
     # creating functions for our snake class
     def use_tongue_to_smell(self):
-        return 'I use tongue to taste'
+        return 'I use tongue to smell'
 
 

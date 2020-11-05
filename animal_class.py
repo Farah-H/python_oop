@@ -8,7 +8,7 @@ class Animal():
         self.lungs = True
         self.eyes = True
 
-        # create behavrious to stay alive
+    # create behavrious to stay alive
         def breathe(self):
             return 'Keep breathing to stay alive'
         
@@ -19,7 +19,7 @@ class Animal():
             return 'find partner'
         
         def eat(self):
-            reurn 'nom nom nom' 
+            return 'nom nom nom'
 
 # instantiate our class / create an object
 # cat = Animal()
